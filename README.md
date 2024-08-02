@@ -32,3 +32,17 @@
 </div>
 
 <br/>
+<hr/>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align="center">
+    <img width=400 src='https://github-readme-stats.vercel.app/api?username=DaniOMesquita&theme=jolly&show_icons=true&hide_border=true&count_private=true' />
+</p>
+<p align="center">
+    <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=DaniOMesquita&theme=jolly&hide_border=true' />
+</p>
+<p align="center">
+    <img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=DaniOMesquita&theme=jolly&show_icons=true&hide_border=true&layout=compact' />
+</p>
+
+
